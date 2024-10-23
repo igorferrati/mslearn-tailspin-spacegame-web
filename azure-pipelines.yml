@@ -1,3 +1,4 @@
-pool: MyAgentPool
+pool:
+  vmImage: ubuntu-lastest
 steps:
 - bash: echo hello world
