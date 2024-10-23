@@ -1,4 +1,4 @@
 pool:
-  vmImage: ubuntu-lastest
+  vmImage: ubuntu-latest
 steps:
 - bash: echo hello world
